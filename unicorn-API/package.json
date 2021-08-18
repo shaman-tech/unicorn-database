@@ -1,0 +1,23 @@
+{
+    "name": "unicorn-dashboard",
+    "version": "1.0.0",
+    "description": "This is a dashboard displaying unicorns and where they are stored",
+    "license": "MIT",
+    "author": "Peter Gordon",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "jshint": "^2.13.1",
+        "mongoose": "^5.13.5",
+        "react-dom": "^17.0.2",
+        "server": "^1.0.34",
+        "webpack": "^5.50.0",
+        "webpack-cli": "^4.7.2",
+        "webpack-dev-server": "^3.11.2"
+    }
+}

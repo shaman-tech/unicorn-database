@@ -1,0 +1,4 @@
+unicorn-API/.env
+unicorn-API/package-lock.json
+unicorn-API/node_modules
+unicorn-frontend/node_modules

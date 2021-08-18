@@ -1,0 +1,75 @@
+[
+    {
+    name: "Joey The Great",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Pixel Fopalapalus",
+    color:  "Rainbow",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Silver Dynamo",
+    color:  "Silver",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Golden Wonderer",
+    color:  "Gold",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Maximus The Steed",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Pufflepuff",
+    color:  "Baby Blue & Pink",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Migthy Ryder",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Mortolomew",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Jack The Stampede",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Leo The Thunder",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Larry",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+},
+{
+    name: "Just Steve",
+    color:  "Violet",
+    location: "Barn",
+    favourite_food: "Space Dust"
+}
+
+]
